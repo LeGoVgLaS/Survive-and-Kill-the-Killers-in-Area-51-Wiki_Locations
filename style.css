@@ -1,0 +1,461 @@
+.bg{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: -20000000;
+}
+.tuleni{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 882px;
+height: 2655px;
+left: 522px;
+top: 45px;
+
+background: #3F3E3E;
+border-radius: 14px;
+z-index: -2000000;
+
+}
+h1{
+    /* Locations */
+
+position: absolute;
+width: 429px;
+height: 56px;
+left: 544px;
+top: 45px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+
+
+}
+.kartinka{
+    /* image 2 */
+
+position: absolute;
+width: 457.5px;
+height: 183px;
+left: 726px;
+top: 101px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+
+}
+.loki{
+    /* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 709px;
+height: 266px;
+left: 612px;
+top: 291px;
+
+background: #515151;
+border: 1px solid #838383;
+border-radius: 19px;
+
+
+}
+.liniyka{
+    /* Line 1 */
+
+position: absolute;
+width: 605px;
+left: 664px;
+top: 370px;
+
+
+}
+.Locations{
+    /* Locations */
+
+position: absolute;
+width: 428px;
+height: 57px;
+left: 811px;
+top: 244px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+color: #FFFFFF;
+}
+.typeoflocations{
+    /* Типи локаций: Головна локациї Мега локациї */
+
+position: absolute;
+width: 598px;
+height: 115px;
+left: 671px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
+.mainL{
+    /* Головні локациї */
+
+position: absolute;
+width: 377px;
+height: 28px;
+left: 823px;
+top: 643px;
+
+font-family: 'Inter';
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+}
+.line2{
+    /* Line 2 */
+
+position: absolute;
+width: 774.25px;
+left: 580px;
+top: 720px;
+
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+
+
+
+
+
+
+
+.image{
+    /* image 7 */
+
+position: absolute;
+width: 209.83px;
+height: 169px;
+left: 592px;
+top: 731px;
+
+}
+
+.image2{
+    /* image 8 */
+
+position: absolute;
+width: 209.67px;
+height: 119px;
+left: 876px;
+top: 756px;
+
+
+
+}
+.image3{
+    /* image 9 */
+
+position: absolute;
+width: 209.83px;
+height: 169px;
+left: 1130px;
+top: 731px;
+
+
+
+}
+.image4{
+/* image 10 */
+
+position: absolute;
+width: 210px;
+height: 180px;
+left: 592px;
+top: 980px;
+background: url(image.png);
+
+
+
+}
+
+.image5{
+/* image 11 */
+
+position: absolute;
+width: 211.07px;
+height: 170px;
+left: 867px;
+top: 980px;
+
+background: url(image.png);
+
+}
+
+.image6{
+/* image 12 */
+
+position: absolute;
+width: 210.18px;
+height: 192px;
+left: 1130px;
+top: 968px;
+
+background: url(image.png);
+
+}
+
+.image7{
+/* image 13 */
+
+position: absolute;
+width: 211.27px;
+height: 193px;
+left: 584px;
+top: 1199px;
+
+background: url(image.png);
+
+}
+
+.image8{
+/* image 14 */
+
+position: absolute;
+width: 211.27px;
+height: 193px;
+left: 853px;
+top: 1202px;
+
+background: url(image.png);
+
+}
+
+.image9{
+/* image */
+
+position: absolute;
+width: 209.83px;
+height: 169px;
+left: 1130px;
+top: 1228px;
+
+background: url(image.png);
+
+}
+
+
+/*.image9:{
+    width:200px;
+    background-size:auto;
+    transition: width 0.3s ease-in-out;
+    z-index: -2000000;
+  }*/ 
+
+.image10{
+    /* image 15 */
+
+position:relative;
+width: 210.73px;
+height: 172px;
+left: 592px;
+top: 1432px;
+
+
+}
+.image11{
+    /* image 16 */
+
+position: absolute;
+width: 210.73px;
+height: 172px;
+left: 861px;
+top: 1432px;
+
+}
+.image12{
+/* image 17 */
+
+position: absolute;
+width: 210.12px;
+height: 92px;
+left: 1130px;
+top: 1481px;
+
+
+
+}
+.image13{
+/* image 18 */
+
+position: absolute;
+width: 211.07px;
+height: 170px;
+left: 592px;
+top: 1626px;
+
+
+}
+.image14{
+/* image 19 */
+
+position: absolute;
+width: 211.07px;
+height: 170px;
+left: 861px;
+top: 1628px;
+
+
+}
+.image15{
+/* image 20 */
+
+position: absolute;
+width: 208.81px;
+height: 114px;
+left: 1130px;
+top: 1660px;
+
+}
+.mega{
+    /* Мега локациї */
+
+position: absolute;
+width: 377px;
+height: 29px;
+left: 791.34px;
+top: 1944px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+}
+.line3{
+    /* Line 3 */
+
+position: absolute;
+width: 774.25px;
+left: 576px;
+top: 2055.62px;
+
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+.image6{
+/* image 12 */
+
+position: absolute;
+width: 210.18px;
+height: 192px;
+left: 1130px;
+top: 968px;
+
+background: url(image.png);
+
+
+}
+
+.image16{
+    /* image 40 */
+
+position: absolute;
+width: 210.23px;
+height: 175px;
+left: 577.34px;
+top: 2070px;
+
+background: url(image.png);
+
+}
+.image17{
+    /* image 41 */
+
+position: absolute;
+width: 209.83px;
+height: 169px;
+left: 854.34px;
+top: 2070px;
+
+}
+.image18{
+/* image 42 */
+
+position: absolute;
+width: 209.52px;
+height: 94px;
+left: 1134.34px;
+top: 2058px;
+
+}
+.image19{
+    /* image 43 */
+
+position: absolute;
+width: 211.09px;
+height: 178px;
+left: 577.34px;
+top: 2262px;
+
+
+}
+.image20{
+    /* image 44 */
+
+position: absolute;
+width: 211.07px;
+height: 170px;
+left: 854.34px;
+top: 2270px;
+}
+.image21{
+    /* image 45 */
+
+position: absolute;
+width: 219px;
+height: 119px;
+left: 1124px;
+top: 2270px;
+}
+footer{
+ background: #343335;
+
+}
+.dno{
+    /* image 6 */
+
+position: absolute;
+width: 558.19px;
+height: 140px;
+left: 666px;
+top: 2712px;
+
+}
